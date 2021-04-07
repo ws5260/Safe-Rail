@@ -1,5 +1,5 @@
 # Safe Rail(세이프레일)
-남은 금액 : 9540
+남은 금액 : 8000
 ### 프로그램
 Fusion360   
 셋팅 : https://youtu.be/2qdINNAendw
