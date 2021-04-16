@@ -14,5 +14,5 @@ __HC-06__/__Raspberry Pi 4__/__arduino Uno R3__/__L298P__/__아두이노 적외�
 -- | --
 04 / 05 | 시스템 구조 도면 작성
 04 / 06 | 아두이노 Uno R3 & L298P 모터쉴드 & 모터 동작 확인<br>  <img width="253" alt="제목 없음" src="https://user-images.githubusercontent.com/56481147/115044853-e11d0280-9f10-11eb-81de-1601605df807.png">
-04 / 09 | 3d stl파일 구함(기차)
+04 / 09 | 3d stl파일 구함(기차) - 제공[
 04 / 12 ~  04 / 16 | 3d프린터 각 부품별로 뽑음
